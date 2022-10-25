@@ -1,0 +1,12 @@
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\bin\Debug\SGM_Mangement_System.exe
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\bin\Debug\SGM_Mangement_System.pdb
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.frm_Login_Form.resources
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.Properties.Resources.resources
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.csproj.GenerateResource.Cache
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.exe
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.pdb
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.Frm_Add_New_Student.resources
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.Frm_View_All_Student_List.resources
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\bin\Debug\SGM_Mangement_System.exe.config
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.Frm_Search_Student_Details.resources
+D:\Assingment_2\SGM_Mangement_System\SGM_Mangement_System\obj\x86\Debug\SGM_Mangement_System.csprojResolveAssemblyReference.cache

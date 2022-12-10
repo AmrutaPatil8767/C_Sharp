@@ -1,0 +1,7 @@
+D:\Assingment_5\My_Controls\My_Controls\bin\Debug\My_Controls.exe
+D:\Assingment_5\My_Controls\My_Controls\bin\Debug\My_Controls.pdb
+D:\Assingment_5\My_Controls\My_Controls\obj\x86\Debug\My_Controls.frm_My_Controls.resources
+D:\Assingment_5\My_Controls\My_Controls\obj\x86\Debug\My_Controls.Properties.Resources.resources
+D:\Assingment_5\My_Controls\My_Controls\obj\x86\Debug\My_Controls.csproj.GenerateResource.Cache
+D:\Assingment_5\My_Controls\My_Controls\obj\x86\Debug\My_Controls.exe
+D:\Assingment_5\My_Controls\My_Controls\obj\x86\Debug\My_Controls.pdb
